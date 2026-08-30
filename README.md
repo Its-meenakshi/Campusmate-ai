@@ -1,4 +1,9 @@
 # 🎓 CampusMate AI
+## 🌐 Live Demo
+
+Try the live CampusMate AI chatbot:
+
+https://cdn.botpress.cloud/webchat/v3.7/shareable.html?configUrl=https://files.bpcontent.cloud/2026/08/30/07/20260830075940-V6HFHVVA.json
 
 ## AI-Powered Virtual Student Assistant
 
